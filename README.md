@@ -8,3 +8,5 @@ Integrantes del equipo:
 - Cañón Laiz, Sergio. sergio.canon@cunef.edu
 
 Este repositorio contiene:
+
+![alt_text](https://media4.giphy.com/media/3o85xuO1siCT147FrG/giphy.gif)
